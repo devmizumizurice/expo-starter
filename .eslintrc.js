@@ -8,7 +8,6 @@ module.exports = {
         'plugin:@typescript-eslint/recommended',
         'plugin:react/recommended'
     ],
-    'ignorePatterns': ['.eslintrc.js', 'tailwind.config.js', 'babel.config.js'],
     'overrides': [
         {
             'env': {
@@ -34,7 +33,7 @@ module.exports = {
     'rules': {
         'linebreak-style': [
             'error',
-            'unix'
+            'windows'
         ],
         'quotes': [
             'error',
