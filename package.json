@@ -1,7 +1,7 @@
 {
   "name": "@devmizumizurice/expo-starter",
   "description": "Template for launching expo apps using typescript, eslint, prettier and nativewind.",
-  "version": "0.0.2",
+  "version": "0.0.1-beta.0",
   "keywords": [],
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~49.0.15",
+    "expo": "^49.0.21",
     "expo-status-bar": "~1.6.0",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
