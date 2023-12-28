@@ -1,7 +1,7 @@
 {
   "name": "@devmizumizurice/expo-starter",
-  "description": "Template for launching expo apps using typescript, eslint, prettier, nativewind.",
-  "version": "1.0.0",
+  "description": "Template for launching expo apps using typescript, eslint, prettier and nativewind.",
+  "version": "0.0.1",
   "keywords": [],
   "license": "CC0-1.0",
   "repository": {
