@@ -5,6 +5,7 @@ module.exports = {
     },
     'extends': [
         'eslint:recommended',
+        'plugin:@typescript-eslint/eslint-recommended',
         'plugin:@typescript-eslint/recommended',
         'plugin:react/recommended'
     ],
@@ -31,6 +32,10 @@ module.exports = {
         'react'
     ],
     'rules': {
+        'indent': [
+            'error',
+            4
+        ],
         'linebreak-style': [
             'error',
             'windows'
@@ -44,6 +49,7 @@ module.exports = {
             'always'
         ],
         'react/jsx-uses-react': 'off',
-        'react/react-in-jsx-scope': 'off'
+        'react/react-in-jsx-scope': 'off',
+
     }
 };
