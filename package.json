@@ -6,7 +6,7 @@
   "license": "CC0-1.0",
   "repository": {
     "type": "git",
-    "url": "[type my git]"
+    "url": "git+https://github.com/devmizumizurice/expo-starter.git"
   },
   "homepage": "https://github.com/devmizumizurice/",
   "author": "みずまんま <app.mizumizurice@gmail.com>",
