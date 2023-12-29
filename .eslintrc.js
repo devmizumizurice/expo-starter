@@ -9,6 +9,7 @@ module.exports = {
         'plugin:@typescript-eslint/recommended',
         'plugin:react/recommended'
     ],
+    'ignorePatterns': ['.eslintrc.js'],
     'overrides': [
         {
             'env': {
@@ -34,7 +35,7 @@ module.exports = {
     'rules': {
         'indent': [
             'error',
-            4
+            2
         ],
         'linebreak-style': [
             'error',
